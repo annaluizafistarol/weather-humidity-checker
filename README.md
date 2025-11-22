@@ -274,8 +274,8 @@ Visando obter o melhor desempenho e organização do código, foram utilizados o
 
 Desenvolvido por **Anna Luiza Fistarol**.
 
-- 🌷 **LinkedIn:** [anna-luiza-camargo-fistarol](https://www.linkedin.com/in/anna-luiza-camargo-fistarol/)
-- 🌸 **GitHub:** [annaluizacamargo](https://github.com/annaluizacamargo)
+- 🌷 **LinkedIn:** [anna-luiza-fistarol](https://www.linkedin.com/in/anna-luiza-fistarol/)
+- 🌸 **GitHub:** [annaluizafistarol](https://github.com/annaluizafistarol)
 - 🌺 **Email:** [luizafistarol@gmail.com](mailto:luizafistarol@gmail.com)
 
 
